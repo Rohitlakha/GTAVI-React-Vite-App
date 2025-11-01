@@ -68,9 +68,10 @@ It demonstrates clean architecture, blazing-fast development with HMR, and code 
 ## 🔗 Connect With Me
 
 👨‍💼 **Rohit Lakha**  
-📍 Data Analyst | BI Developer | SQL & Power BI Enthusiast  
+📍 Frontend Developer | React | JavaScript | Vite Enthusiast  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rohit%20Lakha-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/rohit-lakha/)  
 [![GitHub](https://img.shields.io/badge/GitHub-rohitlakha-black?style=flat&logo=github)](https://github.com/rohitlakha)  
 
 ---
+
