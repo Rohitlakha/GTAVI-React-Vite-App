@@ -48,5 +48,19 @@ It demonstrates clean architecture, blazing-fast development with HMR, and code 
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/<your-username>/GTAVI-React-Vite-App.git
+   git clone https://github.com/Rohitlakha/GTAVI-React-Vite-App/.git
    cd GTAVI-React-Vite-App
+
+2. **Install dependencies**
+   ```bash
+   npm install
+   ```
+
+3. **Start the development server**
+   ```bash
+   npm run dev
+   ```
+
+4. **Open in browser** → http://localhost:5173
+
+---
